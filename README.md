@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection System
 
-![Cash](https://media.giphy.com/media/13ln9K5TWkNTLa/giphy.gif?cid=790b7611mql37vgeo96luddwkbiyp5j2ljmr6pl1sxhecirm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Cash](https://media.giphy.com/media/13ln9K5TWkNTLa/giphy.gif?cid=790b7611mql37vgeo96luddwkbiyp5j2ljmr6pl1sxhecirm&ep=v1_gifs_search&rid=giphy.gif&ct=g) ![Fraud](https://media.giphy.com/media/6hRokkGHrlng4zGcXC/giphy.gif?cid=ecf05e479y9kbuf15nf95ygt9s6xw7q3gwgccj1gx3cyk6a0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Overview
 

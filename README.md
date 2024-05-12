@@ -38,7 +38,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 3. Install the required dependencies:
 
     ```bash
-    pip install -r pandas sklearn numpy seaborn matplotlib
+    pip install pandas sklearn numpy seaborn matplotlib
     ```
 
 ## Usage

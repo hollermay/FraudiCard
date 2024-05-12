@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection System
 
+![Cash](https://media.giphy.com/media/13ln9K5TWkNTLa/giphy.gif?cid=790b7611mql37vgeo96luddwkbiyp5j2ljmr6pl1sxhecirm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ## Overview
 
 This is a credit card fraud detection system built using logistic regression. It helps in identifying fraudulent credit card transactions.
@@ -60,5 +62,3 @@ The performance of the model is evaluated based on accuracy and F1-score.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-![Cash](https://media.giphy.com/media/13ln9K5TWkNTLa/giphy.gif?cid=790b7611mql37vgeo96luddwkbiyp5j2ljmr6pl1sxhecirm&ep=v1_gifs_search&rid=giphy.gif&ct=g)

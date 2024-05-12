@@ -61,4 +61,4 @@ The performance of the model is evaluated based on accuracy and F1-score.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![Cash](https://media.giphy.com/media/l0ExgqXtpTFb1DpXO/giphy.gif)
+![Cash](https://media.giphy.com/media/13ln9K5TWkNTLa/giphy.gif?cid=790b7611mql37vgeo96luddwkbiyp5j2ljmr6pl1sxhecirm&ep=v1_gifs_search&rid=giphy.gif&ct=g)

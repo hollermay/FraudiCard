@@ -49,11 +49,11 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 ## Dataset
 
-The dataset used for this project is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
+The dataset used for this project is the [Credit Card Fraud Detection dataset] (https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
 
 ## Model
 
-The model used for this project is logistic regression.
+The model used for this project is Logistic Regression.
 
 ## Evaluation
 
